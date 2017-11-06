@@ -1,0 +1,245 @@
+{
+        "alerts": [{
+            "reportBy": "Nacron"
+            , "country": "US"
+            , "nThumbsUp": 18
+            , "inscale": false
+            , "comments": [{
+                "reportBy": "LyraPascual"
+                , "reportMillis": 1502259536667
+                , "isThumbsUp": true
+        }, {
+                "reportBy": "canopenope"
+                , "reportMillis": 1502615831606
+                , "isThumbsUp": true
+        }, {
+                "reportBy": "edmondbanaga2016"
+                , "reportMillis": 1502954032791
+                , "isThumbsUp": true
+        }, {
+                "reportBy": ""
+                , "reportMillis": 1503801109618
+                , "isThumbsUp": true
+        }, {
+                "reportBy": "HawnStyln"
+                , "reportMillis": 1503914914403
+                , "isThumbsUp": true
+        }, {
+                "reportBy": ""
+                , "reportMillis": 1503991769917
+                , "isThumbsUp": true
+        }, {
+                "reportBy": ""
+                , "reportMillis": 1504338633539
+                , "isThumbsUp": true
+        }, {
+                "reportBy": ""
+                , "reportMillis": 1504653492379
+                , "isThumbsUp": true
+        }, {
+                "reportBy": "MitariHuboobas"
+                , "reportMillis": 1504811929308
+                , "isThumbsUp": true
+        }, {
+                "reportBy": ""
+                , "reportMillis": 1504834868296
+                , "isThumbsUp": true
+        }, {
+                "reportBy": "LokeLarry"
+                , "reportMillis": 1504846204977
+                , "isThumbsUp": true
+        }, {
+                "reportBy": ""
+                , "reportMillis": 1505238521411
+                , "isThumbsUp": true
+        }, {
+                "reportBy": ""
+                , "reportMillis": 1505274089294
+                , "isThumbsUp": true
+        }, {
+                "reportBy": ""
+                , "reportMillis": 1505681038597
+                , "isThumbsUp": true
+        }, {
+                "reportBy": ""
+                , "reportMillis": 1505719702661
+                , "isThumbsUp": true
+        }, {
+                "reportBy": "captchemo1"
+                , "reportMillis": 1505788045580
+                , "isThumbsUp": true
+        }, {
+                "reportMillis": 1505826640044
+                , "isThumbsUp": true
+        }, {
+                "reportBy": "Cocobanks0428"
+                , "reportMillis": 1505977345608
+                , "text": "Open Now "
+                , "isThumbsUp": false
+        }, {
+                "reportBy": "Cocobanks0428"
+                , "reportMillis": 1505977404608
+                , "text": "Mistake "
+                , "isThumbsUp": false
+        }, {
+                "reportMillis": 1506560228772
+                , "text": "Silly HART"
+                , "isThumbsUp": false
+        }, {
+                "reportBy": "bassettj"
+                , "reportMillis": 1506654398334
+                , "isThumbsUp": true
+        }]
+            , "isJamUnifiedAlert": false
+            , "city": "Waipahu, HI"
+            , "reportRating": 0
+            , "confidence": 5
+            , "reliability": 10
+            , "nImages": 0
+            , "type": "ROAD_CLOSED"
+            , "uuid": "98ea6087-40f6-3a7b-9735-b381a1ee3023"
+            , "speed": 0
+            , "reportMood": 0
+            , "magvar": 0
+            , "showFacebookPic": false
+            , "subtype": "ROAD_CLOSED_EVENT"
+            , "wazeData": "usa,-158.022216,21.378506,98ea6087-40f6-3a7b-9735-b381a1ee3023,1245950080"
+            , "reportDescription": "Rail Construction"
+            , "location": {
+                "x": -158.022216
+                , "y": 21.378506
+            }
+            , "id": "alert-1245950080/98ea6087-40f6-3a7b-9735-b381a1ee3023"
+            , "nComments": 3
+            , "pubMillis": 1501838589593
+    }, {
+            "country": "US"
+            , "nThumbsUp": 1
+            , "reportRating": 2
+            , "reliability": 7
+            , "type": "JAM"
+            , "uuid": "6e24ded8-88c3-3c92-a533-e51c1f4ef89a"
+            , "speed": 0
+            , "reportMood": 46
+            , "subtype": "JAM_STAND_STILL_TRAFFIC"
+            , "street": "Exit 18A: SR-92 E / Waikiki / Nimitz Hwy"
+            , "id": "alert-1618272962/6e24ded8-88c3-3c92-a533-e51c1f4ef89a"
+            , "nComments": 1
+            , "reportBy": "Emasaki"
+            , "inscale": false
+            , "comments": [{
+                "reportBy": "maymay175"
+                , "reportMillis": 1506965468733
+                , "isThumbsUp": false
+        }, {
+                "reportMillis": 1506966018711
+                , "isThumbsUp": true
+        }]
+            , "isJamUnifiedAlert": false
+            , "confidence": 1
+            , "nImages": 0
+            , "nearBy": "Mapunapuna"
+            , "roadType": 4
+            , "magvar": 113
+            , "showFacebookPic": false
+            , "wazeData": "usa,-157.891726,21.333305,6e24ded8-88c3-3c92-a533-e51c1f4ef89a,1618272962"
+            , "location": {
+                "x": -157.891726
+                , "y": 21.333305
+            }
+            , "pubMillis": 1506965212578
+    }, {
+            "reportBy": "gaudlis"
+            , "country": "US"
+            , "nThumbsUp": 1
+            , "inscale": false
+            , "comments": [{
+                "reportBy": "bulllldog6"
+                , "reportMillis": 1506966831786
+                , "isThumbsUp": true
+        }]
+            , "isJamUnifiedAlert": false
+            , "city": "Joint Base Pearl Harbor-Hickam, HI"
+            , "reportRating": 1
+            , "confidence": 0
+            , "reliability": 7
+            , "nImages": 0
+            , "type": "HAZARD"
+            , "uuid": "db8815f4-f3e3-3a50-a898-eb730595213c"
+            , "speed": 0
+            , "reportMood": 1
+            , "magvar": 315
+            , "showFacebookPic": false
+            , "subtype": "HAZARD_ON_ROAD_POT_HOLE"
+            , "street": "O'Malley Blvd"
+            , "wazeData": "usa,-157.956372,21.338206,db8815f4-f3e3-3a50-a898-eb730595213c,1610711009"
+            , "location": {
+                "x": -157.956372
+                , "y": 21.338206
+            }
+            , "id": "alert-1610711009/db8815f4-f3e3-3a50-a898-eb730595213c"
+            , "nComments": 0
+            , "pubMillis": 1506957701648
+    }, {
+            "country": "US"
+            , "nThumbsUp": 0
+            , "city": "Kailua, HI"
+            , "reportRating": 0
+            , "reliability": 6
+            , "type": "ROAD_CLOSED"
+            , "uuid": "644e20cb-9f54-3723-8cb2-841acaa9bc18"
+            , "speed": 0
+            , "reportMood": 0
+            , "subtype": "ROAD_CLOSED_EVENT"
+            , "street": "Kailua Rd"
+            , "id": "alert-1614421015/644e20cb-9f54-3723-8cb2-841acaa9bc18"
+            , "nComments": 0
+            , "reportBy": "Nacron"
+            , "inscale": false
+            , "comments": []
+            , "isJamUnifiedAlert": false
+            , "confidence": 0
+            , "nImages": 0
+            , "magvar": 0
+            , "showFacebookPic": false
+            , "wazeData": "usa,-157.730374,21.397464,644e20cb-9f54-3723-8cb2-841acaa9bc18,1614421015"
+            , "reportDescription": "Future Roundabout Roads"
+            , "location": {
+                "x": -157.730374
+                , "y": 21.397464
+            }
+            , "pubMillis": 1506932386828
+    }, {
+            "reportBy": "MCSamoa"
+            , "country": "US"
+            , "nThumbsUp": 0
+            , "inscale": false
+            , "comments": []
+            , "isJamUnifiedAlert": false
+            , "city": "Hauula, HI"
+            , "reportRating": 3
+            , "confidence": 0
+            , "reliability": 5
+            , "nImages": 0
+            , "type": "POLICE"
+            , "uuid": "5559ef45-b6e0-37b2-906b-6173f0dfd287"
+            , "speed": 0
+            , "reportMood": 46
+            , "magvar": 146
+            , "showFacebookPic": false
+            , "subtype": "POLICE_HIDING"
+            , "street": "Kamehameha Hwy"
+            , "wazeData": "usa,-157.911946,21.612802,5559ef45-b6e0-37b2-906b-6173f0dfd287,1616033644"
+            , "location": { 
+                "x": 39.437944
+                , "y": -76.625070
+            }
+            , "id": "alert-1616033644/5559ef45-b6e0-37b2-906b-6173f0dfd287"
+            , "nComments": 0
+            , "pubMillis": 1506965412142
+    }]
+        , "endTimeMillis": 1506966780000
+        , "startTimeMillis": 1506966720000
+        , "startTime": "2017-10-02 17:52:00:000"
+        , "endTime": "2017-10-02 17:53:00:000"
+    }

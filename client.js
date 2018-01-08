@@ -135,7 +135,7 @@ function mainProg(tpvData) {
 //Send location data to Server and process recieved messages
 function sendLocation(myloc) {
     var port = 9838;
-    var host = 'tmc.wblabs.co';
+    var host = 'localhost';
     var socket = new JsonSocket(new net.Socket());
     socket.connect(port, host);
     socket.on('connect', function() { //Don't send until we're connected
